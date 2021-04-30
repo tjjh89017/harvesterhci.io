@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/home/runner/work/harvesterhci.io/harvesterhci.io",
+	"sourceRoot": "/github/workspace",
 	"sources": [
 		"assets/sass/main.scss",
 		"assets/css/styles-bundle-369.css"
